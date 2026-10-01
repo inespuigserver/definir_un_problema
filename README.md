@@ -1,1 +1,2 @@
 # definir_un_problema
+Hemos elegido resolver el problema de las palabras palíndromas mediante un algoritmo lineal, ya que es la opción más eficiente para este caso. El algoritmo recorre la palabra una sola vez comparando los caracteres de los extremos, por lo que su complejidad es O(n). Esto permite obtener el resultado de forma rápida incluso cuando la longitud de la palabra aumenta
