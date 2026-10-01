@@ -1,4 +1,3 @@
-# empezamos
 escribir = input("Introduce una palabra o frase en minúsculas sin signos de puntuación: ")
 
 min = 0
